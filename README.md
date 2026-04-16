@@ -68,10 +68,8 @@ Tracked monthly growth patterns<br><br>
 ▶️ How to Use<br>
 Download the .pbix file<br>
 Open it in Power BI Desktop<br>
-Explore the dashboard and interact with visuals<br><br>
-📸 Dashboard Preview<br>
 
-(Add screenshots here)<br><br>
+Explore the dashboard and interact with visuals<br><br>
 
 💡 Future Enhancements<br>
 Add real-time data integration<br>
