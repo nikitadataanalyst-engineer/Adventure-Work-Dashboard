@@ -17,12 +17,12 @@ The dashboard helps stakeholders understand sales trends, customer behavior, and
 
 ## 🛠️ Tools & Technologies<br>  
 - **Power BI** – Dashboard development & visualization<br>  
-- **Excel / SQL** – Data cleaning and transformation<br><br>
+- **Excel ** – Data cleaning and transformation<br><br>
 
 ---
 
 ## 📊 Dashboard Overview<br>  
-The report consists of **4 interactive pages**:<br><br>
+The report consists of **4 interactive Tabs**:<br><br>
 
 ---
 
@@ -96,10 +96,7 @@ Product performance and target comparison:<br><br>
 
 ---
 
-## 📸 Dashboard Preview<br>  
-(Add screenshots here)<br><br>
 
----
 
 ## 💡 Future Enhancements<br>  
 - Add real-time data integration<br>  
