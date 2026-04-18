@@ -80,9 +80,9 @@ Product performance and target comparison:<br><br>
 ---
 
 ## 📂 Project Structure<br>  
-├── Dashboard/ # Power BI (.pbix file)
-├── Data/ # Dataset used
-├── Screenshots/ # Dashboard images
+├── Dashboard/ # Power BI (.pbix file)<br>
+├── Data/ # Dataset used<br>
+├── Screenshots/ # Dashboard images<br>
 └── README.md # Documentation
 <br>
 <br>
